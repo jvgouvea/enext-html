@@ -1,2 +1,3 @@
-# enext-html
-Desafio de HTML feito durante a Capacitação em VTEX da Enext
+# CAPACITAÇÃO VTEX - ENEXT - DESAFIO HTML
+
+Desafio de HTML feito durante o programa de Capacitação em VTEX da Enext
